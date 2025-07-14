@@ -1,0 +1,3 @@
+[submodule "adidaquiz"]
+	path = adidaquiz
+	url = https://github.com/Paskaliecom/Quiz-chelsea.git
